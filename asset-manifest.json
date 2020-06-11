@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/election-swimlanes/static/css/main.b66a3d18.chunk.css",
+    "main.js": "/election-swimlanes/static/js/main.432033a7.chunk.js",
+    "main.js.map": "/election-swimlanes/static/js/main.432033a7.chunk.js.map",
+    "runtime-main.js": "/election-swimlanes/static/js/runtime-main.55f578f1.js",
+    "runtime-main.js.map": "/election-swimlanes/static/js/runtime-main.55f578f1.js.map",
+    "static/js/2.4ed39d64.chunk.js": "/election-swimlanes/static/js/2.4ed39d64.chunk.js",
+    "static/js/2.4ed39d64.chunk.js.map": "/election-swimlanes/static/js/2.4ed39d64.chunk.js.map",
+    "index.html": "/election-swimlanes/index.html",
+    "precache-manifest.97096026657ee2eb06ad180cc64eb63b.js": "/election-swimlanes/precache-manifest.97096026657ee2eb06ad180cc64eb63b.js",
+    "service-worker.js": "/election-swimlanes/service-worker.js",
+    "static/css/main.b66a3d18.chunk.css.map": "/election-swimlanes/static/css/main.b66a3d18.chunk.css.map",
+    "static/js/2.4ed39d64.chunk.js.LICENSE.txt": "/election-swimlanes/static/js/2.4ed39d64.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55f578f1.js",
+    "static/js/2.4ed39d64.chunk.js",
+    "static/css/main.b66a3d18.chunk.css",
+    "static/js/main.432033a7.chunk.js"
+  ]
+}
